@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011253490142",
+    "project_id": "flogin-9f3b3",
+    "storage_bucket": "flogin-9f3b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011253490142:android:555c7124257c3c5d62ed4f",
+        "android_client_info": {
+          "package_name": "com.flogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011253490142-jcihpbrjm1r53o8gm47t1mrh01mu6uhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBEay32_X_8LW6_eQgc45FDbpN5MgWtG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011253490142-jcihpbrjm1r53o8gm47t1mrh01mu6uhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
